@@ -2,5 +2,9 @@
 
 
 just another repository
-Git clone
+git clon
+git add
 git commit
+git log
+
+
